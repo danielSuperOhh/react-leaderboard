@@ -1,0 +1,172 @@
+{
+    "MVPScore": [
+        {
+            "src": "images/Cocuk.png",
+            "naming": " Igboaja Preciuos",
+            "score": "Power-Ranking: 2453pts",
+            "track": "UI/UX"
+        }
+    ],
+    "geniescoreboard": [
+        {
+            "src": "images/Kemal.png",
+            "naming": "Amarachukwu Nweke",
+            "score": "Power-Ranking: 2553pts",
+            "track": "Path: Front-End",
+            "position": "1st",
+            "category": "frontend"
+        },
+        {
+            "src": "images/Umut.png",
+            "naming": "Blessing Edeh",
+            "score": "Power-Ranking: 2223pts",
+            "track": "Path: Back-End",
+            "position": "1st",
+            "category": "backend"
+        },
+        {
+            "src": "images/Murat.png",
+            "naming": "Charles Orih",
+            "score": "Power-Ranking: 2303pts",
+            "track": "Path: Web3",
+            "position": "1st",
+            "category": "web3"
+        },
+        {
+            "src": "images/Cocuk.png",
+            "naming": " CHidinma Nwakor",
+            "score": "Power-Ranking: 2453pts",
+            "track": "Path: UI/UX",
+            "position": "1st",
+            "category": "ui/ux"
+        },
+        {
+            "src": "images/Kemal.png",
+            "naming": "Igwe Chibuzor",
+            "score": "Power-Ranking: 2240pts",
+            "track": "Path: Front-End",
+            "position": "2nd",
+            "category": "frontend"
+        },
+        {
+            "src": "images/Umut.png",
+            "naming": "Chinecherem Udia",
+            "score": "Power-Ranking: 2214pts",
+            "track": "Path: Back-End",
+            "position": "2nd",
+            "category": "backend"
+        },
+        {
+            "src": "images/Murat.png",
+            "naming": "Joy Ugwuodo",
+            "score": "Power-Ranking: 2310pts",
+            "track": "Path: Web3",
+            "position": "2nd",
+            "category": "web3"
+        },
+        {
+            "src": "images/Cocuk.png",
+            "naming": " Promise Ikechukwu",
+            "score": "Power-Ranking: 2307pts",
+            "track": "Path: UI/UX",
+            "position": "2nd",
+            "category": "ui/ux"
+        },
+        {
+            "src": "images/Kemal.png",
+            "naming": "Chukkudalu Chibundu",
+            "score": "Power-Ranking: 2224pts",
+            "track": "Path: Front-End",
+            "position": "3rd",
+            "category": "frontend"
+        },
+        {
+            "src": "images/Umut.png",
+            "naming": "Uchenna Omeife",
+            "score": "Power-Ranking: 2117pts",
+            "track": "Path: Back-End",
+            "position": "3rd",
+            "category": "backend"
+        },
+        {
+            "src": "images/Murat.png",
+            "naming": "Okorie Kelechukwu",
+            "score": "Power-Ranking: 2284pts",
+            "track": "Path: Web3",
+            "position": "3rd",
+            "category": "web3"
+        },
+        {
+            "src": "images/Cocuk.png",
+            "naming": "Onah Sochima",
+            "score": "Power-Ranking: 2289pts",
+            "track": "Path: UI/UX",
+            "position": "3rd",
+            "category": "ui/ux"
+        },
+        {
+            "src": "images/Kemal.png",
+            "naming": "Onyeka Emegwa",
+            "score": "Power-Ranking: 2104pts",
+            "track": "Path: Front-End",
+            "position": "4th",
+            "category": "frontend"
+        },
+        {
+            "src": "images/Umut.png",
+            "naming": "Nkeiruka Njideka",
+            "score": "Power-Ranking: 2108pts",
+            "track": "Path: Back-End",
+            "position": "4th",
+            "category": "backend"
+        },
+        {
+            "src": "images/Murat.png",
+            "naming": "Oluwaseyi Lawrence",
+            "score": "Power-Ranking: 2241pts",
+            "track": "Path: Web3",
+            "position": "4th",
+            "category": "web3"
+        },
+        {
+            "src": "images/Cocuk.png",
+            "naming": "Perpetua Asogwa",
+            "score": "Power-Ranking: 2242pts",
+            "track": "Path: UI/UX",
+            "position": "4th",
+            "category": "ui/ux"
+        },
+        {
+            "src": "images/Kemal.png",
+            "naming": "Onyekachi Unorji",
+            "score": "Power-Ranking: 2017pts",
+            "track": "Path: Front-End",
+            "position": "5th",
+            "category": "frontend"
+        },
+        {
+            "src": "images/Umut.png",
+            "naming": "Toochukwu Nzejekwu",
+            "score": "Power-Ranking: 2101pts",
+            "track": "Path: Back-End",
+            "position": "5th",
+            "category": "backend"
+        },
+        {
+            "src": "images/Murat.png",
+            "naming": "Queendoline Akpan",
+            "score": "Power-Ranking: 2014pts",
+            "track": "Path: Web3",
+            "position": "5th",
+            "category": "web3"
+        },
+        {
+            "src": "images/Cocuk.png",
+            "naming": "NNebedum Christopher",
+            "score": "Power-Ranking: 2142pts",
+            "track": "Path: UI/UX",
+            "position": "5th",
+            "category": "ui/ux"
+        }
+    ]
+}
